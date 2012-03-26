@@ -56,7 +56,7 @@ int main()
       ergcos=r*cos(wkl*(M_PI/180));
       printf("k=%d x%d=  %.3lf*(cos%.3lf + jsin%.3lf)= %.3lf  %.3lfj\n",k++,x++,r,wkl,wkl,ergcos,ergsin);
       wkl=fi+(k*(360/n));
-      Sleep(150);
+      Sleep(200);
    }
    system("\n\nPAUSE");
    return 0;
