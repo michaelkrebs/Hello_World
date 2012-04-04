@@ -1,9 +1,0 @@
-commit 1360484d91cfc55aaaf33fd2fe6b825fe4857e86
-Author: Michael Krebs <michl2506@hotmail.com>
-Date:   Mon Mar 26 08:33:30 2012 +0200
-
-    README als txt Datei eingefgt
-
-diff --git a/README.txt b/README.txt
-new file mode 100644
-index 0000000..e69de29
